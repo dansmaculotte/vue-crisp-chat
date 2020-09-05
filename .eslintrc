@@ -1,5 +1,4 @@
 {
-    "extends": "spatie/vue",
     "parserOptions": {
         "ecmaVersion": 8
     },

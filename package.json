@@ -1,7 +1,7 @@
 {
-  "name": "package_name",
+  "name": "@dansmaculotte/vue-crisp-chat",
   "version": "0.0.1",
-  "description": "package_description",
+  "description": "Vue.js plugin for Crisp Chat",
   "main": "dist/index.js",
   "jsnext:main": "src/index.js",
   "scripts": {
@@ -13,17 +13,19 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/spatie/package_name.git"
+    "url": "https://github.com/dansmaculotte/vue-crisp-chat.git"
   },
   "keywords": [
-    "spatie"
+    "vue",
+    "vue-plugin",
+    "crisp-chat"
   ],
   "author": "author_name",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/spatie/package_name/issues"
+    "url": "https://github.com/dansmaculotte/vue-crisp-chat"
   },
-  "homepage": "https://github.com/spatie/package_name",
+  "homepage": "https://github.com/dansmaculotte/vue-crisp-chat",
   "peerDependencies": {
     "vue": "^2.3.0"
   },
@@ -34,6 +36,7 @@
     "babel-plugin-transform-runtime": "^6.23.0",
     "babel-preset-env": "^1.4.0",
     "css-loader": "^0.28.1",
+    "dotenv": "^8.2.0",
     "eslint": "^3.7.1",
     "eslint-config-spatie": "^1.1.0",
     "jest": "^19.0.0",
