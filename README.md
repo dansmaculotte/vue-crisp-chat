@@ -1,6 +1,6 @@
 # vue-crisp-chat
 
-[![Latest Version on NPM](https://img.shields.io/npm/v/dansmaculotte/vue-crisp-chat.svg?style=flat-square)](https://npmjs.com/package/dansmaculotte/vue-crisp-chat)
+[![Latest Version on NPM](https://img.shields.io/npm/v/@dansmaculotte/vue-crisp-chat.svg?style=flat-square)](https://www.npmjs.com/package/@dansmaculotte/vue-crisp-chat)
 [![Software License](https://img.shields.io/badge/license-MIT-brightgreen.svg?style=flat-square)](LICENSE.md)
 [![Build Status](https://img.shields.io/travis/dansmaculotte/vue-crisp-chat/main.svg?style=flat-square)](https://travis-ci.org/dansmaculotte/vue-crisp-chat)
 
