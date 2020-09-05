@@ -1,6 +1,6 @@
 {
   "name": "@dansmaculotte/vue-crisp-chat",
-  "version": "0.0.1",
+  "version": "0.1.0",
   "description": "Vue.js plugin for Crisp Chat",
   "main": "dist/index.js",
   "jsnext:main": "src/index.js",
